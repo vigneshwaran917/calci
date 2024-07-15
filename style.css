@@ -1,0 +1,28 @@
+#main{
+    height: 330px;
+    width: 300px;
+    border-radius: 2px black;
+    background-color: rgb(212, 223, 223);
+    text-align: center;
+    border-radius: 10px;
+    margin: auto;
+    padding-top: 25px;
+    box-shadow: 2px 2px 2px 1px  black;
+    font-size: 14px;
+    margin-top: 90px;
+}
+button{
+    width: 100px;
+    height: 30px;
+    background-color: rgb(31, 207, 84);
+    border-radius: 12px;
+}
+#n1,#n2{
+    height: 20px;
+    width: 240px;
+    border-radius: 5px;
+}
+h1{
+    margin-left: 610px ;
+    margin-top: 100px;
+}
